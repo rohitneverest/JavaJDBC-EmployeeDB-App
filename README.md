@@ -1,4 +1,4 @@
-Employee Database App (Java + MySQL + JDBC)
+Employee Database App (Java + MySQL + JDBC)  /n
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 📌 Overview...
 This is a simple Java console application that connects to a MySQL database using JDBC and performs basic CRUD operations:
